@@ -1,0 +1,4 @@
+#Fri Apr 07 21:17:56 KST 2023
+base.0=/Users/seyeonpark/Documents/workspace/flutterUberClone/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

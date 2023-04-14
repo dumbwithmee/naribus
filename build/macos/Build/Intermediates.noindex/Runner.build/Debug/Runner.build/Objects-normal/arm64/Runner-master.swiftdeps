@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "b2822512e3083382c1143942e02ae70fdd827fb50476164e86f05a2434611a7b"
+build_start_time: [1680844047, 204220056]
+build_end_time: [1680844049, 308738946]
+inputs:
+  "/Users/seyeonpark/Documents/flutterUberClone/macos/Flutter/GeneratedPluginRegistrant.swift": [1680844040, 144150257]
+  "/Users/seyeonpark/Documents/flutterUberClone/macos/Runner/AppDelegate.swift": [1655419738, 0]
+  "/Users/seyeonpark/Documents/flutterUberClone/macos/Runner/MainFlutterWindow.swift": [1655419738, 0]
